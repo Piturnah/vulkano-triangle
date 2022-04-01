@@ -1,5 +1,5 @@
 // I followed along with the example on the main Vulkano repository, licensed under MIT License:
-// https://github.com/vulkano-rs/vulkano/blob/d1ab3f672673180d70c4ee164fd57924f5ab1be4/examples/src/bin/triangle.rsp
+// https://github.com/vulkano-rs/vulkano/blob/d1ab3f672673180d70c4ee164fd57924f5ab1be4/examples/src/bin/triangle.rs
 
 use bytemuck::{Pod, Zeroable};
 use std::sync::Arc;
